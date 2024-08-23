@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aisha-Umar
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html,css, javascript, node
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning node, mangoDB and sql
+- 
 - 📫 How to reach me ...
 
 <!---
